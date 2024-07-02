@@ -860,17 +860,19 @@ Please note that each web-page in this website should have the same background I
 ```
 ## Output.html
 
-
+### Home.html
 ![](1.png)
+### Academics.html/Departments
 ![](2.png)
-![](3.png)
 ![](4.png)
 ![](5.png)
 ![](6.png)
 ![](7.png)
 ![](8.png)
 ![](9.png)
+### Admission.html
 ![](10.png)
+### Gallery.html
 ![](11.png)
 
 
